@@ -36,7 +36,7 @@ class Dashing.Sparkline extends Dashing.Widget
     # Make the sparkline graph 1/5 of the widget's height
     height /= 5
 
-    $graph = $("<div style='height: #{height}px;'></div>")
+    $graph = $("<div class='sparkline-container' style='height:#{height}px;'></div>")
     $(@node).append $graph
 
     @graph = new Rickshaw.Graph(

@@ -15,11 +15,18 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
   background-color: $background-color;
   position: relative;
 
+  div.sparkline-container {
+    // border:1px solid black;
+    margin-left: -12px;
+    margin-right: -12px;
+  }
+
   svg {
+    // border:1px solid red;
     position: block;
     opacity: 0.4;
     fill-opacity: 0.4;
-    padding: 3px 0px 4px 0px;
+    padding: 3px 0px 4px;
     width: 100%;
   }
 

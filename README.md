@@ -29,6 +29,10 @@ Add the following code on the desired dashboard:
 </li>
 ```
 
+You can change the `data-graphtype`. Options include `lineplot`, `line`,
+`area` and `bar`. Other options supported by `Rickshaw.Graph` should also work
+but they might not look very nice for a sparkline.
+
 Create your sparkline job `my_sparkline_job.rb`. Example:
 
 ```ruby
