@@ -19,6 +19,12 @@ simple and highly condensed way (from https://en.wikipedia.org/wiki/Sparkline).
 The sparkline is drawn using the Rickshaw Graph framework just like the
 default Graph widget.
 
+## Installation
+
+Manual installation is described below (Usage section). Alternately, you can
+use the automated dashing installer by running
+`dashing install 26068a72540619a4d4ec` from the root of your dashing project.
+
 ## Usage
 
 Add the following code on the desired dashboard:
