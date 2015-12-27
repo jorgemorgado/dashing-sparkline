@@ -21,8 +21,10 @@ default Graph widget.
 
 ## Installation
 
-Manual installation is described below (Usage section). Alternately, you can
-use the automated dashing installer by running
+Create a folder in your widgets directory called `sparkline`. Insert the three
+files (`sparkline.coffee`, `sparkline.html` and `sparkline.scss`).
+
+Alternately, you can use the automated dashing installer by running
 `dashing install 26068a72540619a4d4ec` from the root of your dashing project.
 
 ## Usage
