@@ -29,6 +29,9 @@ Alternately, you can use the automated dashing installer by running
 
 ## Usage
 
+Create the directory `widgets/sparkline` and copy this widget's files
+into that folder.
+
 Add the following code on the desired dashboard:
 
 ```erb
