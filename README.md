@@ -6,7 +6,8 @@
 
 ## Description
 
-A [Dashing](http://shopify.github.com/dashing) widget (and associated job)
+A [Smashing](https://smashing.github.io/)/[Dashing](http://shopify.github.com/dashing)
+widget (and associated job)
 to display a sparkline graph. It also displays the current value and the
 percentage difference (from the previous value), pretty much like the Number
 widget.
